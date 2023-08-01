@@ -1,0 +1,14 @@
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\bin\Debug\net7.0\DTO.runtimeconfig.json
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\DTO.genruntimeconfig.cache
+C:\Users\shres\Desktop\Movie Proj\MOVIEWebAPI\DTO\obj\Debug\net7.0\ref\DTO.dll
